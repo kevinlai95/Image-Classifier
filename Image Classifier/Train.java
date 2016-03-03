@@ -22,7 +22,7 @@ import weka.core.Instances;
 public class Train{
 	
 	public String train(String image) throws Exception {
-		//professor Merz- Initial training code won't work unless you change all directories
+		//Initial training code won't work unless you change all directories
 		//you will need the change the path of all the initial training images in path.txt 
 		//I'd suggest leaving this code commented out and use the pre-trained arff file
 		//this.createArff(); //initial training code
